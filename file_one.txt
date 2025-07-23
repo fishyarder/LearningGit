@@ -2,6 +2,7 @@ file_one
 
 New branch work
 line_one
-line_two
+
+line_three
 
 more experimental branch work
